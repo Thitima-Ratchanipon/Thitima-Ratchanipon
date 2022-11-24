@@ -1,1 +1,167 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T09:19:38.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="aFF6O4TIg68YYWk69bn_" type="github"><diagram id="JviFghzGiRzXwHDRfKEv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-24T14:56:22.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="crhJnrNOfA9DZStEFbNU" type="github">
+  <diagram id="BJXNpzb7s-P4XL5tjR8Y" name="หน้า-1">
+    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4MyareliWiNufTGVVcv1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-7" target="4MyareliWiNufTGVVcv1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-7" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;Start&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fillColor=#6666FF;strokeColor=#333333;gradientColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-8" target="4MyareliWiNufTGVVcv1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ตื่นนอน&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;fillColor=#66FF66;strokeColor=#666666;gradientColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-10" target="4MyareliWiNufTGVVcv1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;เก็บที่นอน&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;fillColor=#FF9999;gradientColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-12" target="4MyareliWiNufTGVVcv1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ลุกจากที่นอน&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;fillColor=#FFB570;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="580" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-14" target="4MyareliWiNufTGVVcv1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ไปห้องน้ำ&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="730" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-16" target="4MyareliWiNufTGVVcv1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;อาบน้ำ&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Garamond;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="710" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-18" target="4MyareliWiNufTGVVcv1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;แต่งตัว&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Garamond;rounded=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-20" target="4MyareliWiNufTGVVcv1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ทำผม&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-22" target="4MyareliWiNufTGVVcv1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;จัดกระเป๋า&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;fillColor=#FF66B3;strokeColor=#b85450;gradientColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-24" target="4MyareliWiNufTGVVcv1-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;จัดตารางเรียน&lt;br&gt;ตารางสอน&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;fillColor=#FF9933;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-26" target="4MyareliWiNufTGVVcv1-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-26" target="4MyareliWiNufTGVVcv1-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ทำกับข้าว&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;fillColor=#FF00FF;gradientColor=#333333;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-30" target="4MyareliWiNufTGVVcv1-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ทำ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;fillColor=#333333;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-33" target="4MyareliWiNufTGVVcv1-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ไม่ทำ&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Garamond;rounded=1;gradientColor=default;fillColor=#00FFFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-35" target="4MyareliWiNufTGVVcv1-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;หุงข้าว&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Garamond;rounded=1;gradientColor=#333333;fillColor=#C3ABD0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-37" target="4MyareliWiNufTGVVcv1-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ทำอาหาร&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Garamond;rounded=1;gradientColor=#333333;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="730" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-39" target="4MyareliWiNufTGVVcv1-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;นำอาหารใส่กล่อง&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;gradientColor=#FFFF99;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="730" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ออกจากห้อง&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Garamond;rounded=1;gradientColor=#6666FF;fillColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="310" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=20;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ออกจากห้อง&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Garamond;rounded=1;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="530" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=18;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-58" target="4MyareliWiNufTGVVcv1-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;go&amp;nbsp;to&amp;nbsp; School&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Georgia;fontSize=20;gradientColor=default;fillColor=#00CC66;" vertex="1" parent="1">
+          <mxGeometry x="440" y="860" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-65" target="4MyareliWiNufTGVVcv1-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;เดินไป 200 เมตร&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Georgia;gradientColor=#FFCCCC;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="255" y="875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-67" target="4MyareliWiNufTGVVcv1-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;เลี้ยวขวา&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;gradientColor=#FFCCE6;fillColor=#FF3399;" vertex="1" parent="1">
+          <mxGeometry x="55" y="865" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-69" target="4MyareliWiNufTGVVcv1-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ตรงไปอีก 50 เมตร&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Georgia;gradientColor=default;fillColor=#B266FF;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-71" target="4MyareliWiNufTGVVcv1-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;เลี้ยวซ้าย&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;gradientColor=#00FF00;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=14;" edge="1" parent="1" source="4MyareliWiNufTGVVcv1-73" target="4MyareliWiNufTGVVcv1-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;School&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Georgia;rounded=1;gradientColor=#ffd966;fillColor=#666666;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MyareliWiNufTGVVcv1-75" value="End" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontFamily=Georgia;rounded=1;fillColor=#4D4D4D;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="655" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
